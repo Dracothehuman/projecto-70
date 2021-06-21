@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(#c4463d 0%, #3d8ccc 100%);
+}
+
+#Schoo_Name h2 {
+    font-family: cursive;
+    margin-bottom: 10px;
+}
+
+#Schoo_Name img {
+    border-radius: 100px;
+    border-color: black;
+    border-width: 30px;
+}
+
+#Campus_Life p {
+    color: black;
+}
+
+#Campus_Life img {
+    height: 500px;
+    width: 500px;
+}
+
+.bg-primary movie_head {
+    font-size: 20.69420px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px
+}
+
+#Achievments img {
+    height: 250px;
+    width: 250px;
+}
+.newish{
+    margin-top: 13px;
+}
+
+.newish h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.newish p {
+    margin-top: 10px
+}
+
+.newish img {
+    border-radius: 20px;
